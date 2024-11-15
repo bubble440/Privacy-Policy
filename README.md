@@ -1,8 +1,8 @@
-# Privacy Policy for African Tales
+# Privacy Policy for Make
 
 **Effective Date:** 11/15/2024
 
-This Privacy Policy describes how African Tales collects, uses, and discloses information about you when you use our application integrated with Make for Google Drive automation.
+This Privacy Policy describes how Make collects, uses, and discloses information about you when you use our application integrated with Make for Google Drive automation.
 
 ## Information Collection And Use
 
@@ -21,7 +21,7 @@ The information we collect is used for:
 
 ## Data Sharing and Disclosure
 
-African Tales does not sell, trade, or otherwise transfer to outside parties your Personal Information unless we provide users with advance notice. 
+Make does not sell, trade, or otherwise transfer to outside parties your Personal Information unless we provide users with advance notice. 
 This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, 
 so long as those parties agree to keep this information confidential.
 
