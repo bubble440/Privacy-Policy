@@ -33,15 +33,15 @@ To start using Make, follow these steps:
 
 ## Privacy Policy
 
-For details on how we handle your data, please review our[Privacy Policy](#). We are committed to protecting your privacy and ensuring the security of your data during the automation process.
+For details on how we handle your data, please review our[Privacy Policy](#https://github.com/bubble440/Privacy-Policy/blob/main/Privacy%20Policy.md). We are committed to protecting your privacy and ensuring the security of your data during the automation process.
 
 ## Terms of Service
 
-Before using Make, please read our[Terms of Service](#). This document outlines what you can expect from us and what we expect from you as a user of our service.
+Before using Make, please read our[Terms of Service](#https://github.com/bubble440/Privacy-Policy/edit/main/README.md). This document outlines what you can expect from us and what we expect from you as a user of our service.
 
 ## Support
 
-If you encounter any issues or have questions about how to use Make, reach out to us at[Your Contact Email](#). We're here to help!
+If you encounter any issues or have questions about how to use Make, reach out to us at [Contact](#). We're here to help!
 
 ## Limitations
 
@@ -63,10 +63,10 @@ We welcome contributions to improve Make. If you're interested in contributing, 
 
 ## License
 
-This project is licensed under the [MIT License](#) - see the LICENSE.md file for details.
+This project is licensed under the [MIT License](#https://github.com/bubble440/Privacy-Policy/edit/main/README.md) - see the LICENSE.md file for details.
 
 ---
 
 Thank you for choosing Make for your Pinterest automation needs. We hope this tool helps streamline your content creation process, making it more efficient and effective. Enjoy pinning!
 
- |[Privacy Policy](#).
+ |[Privacy Policy](#https://github.com/bubble440/Privacy-Policy/blob/main/Privacy%20Policy.md).
